@@ -1,3 +1,6 @@
+## Diego Velázquez 
+Made this reppository to learn about Swift and MongoDB.
+
 # Realm iOS Swift Tutorial
 
 Follow along at https://www.mongodb.com/docs/realm/tutorial/ios-swift/
